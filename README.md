@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfólio-veja_meus_projetos-blue?style=for-the-badge" alt="Portfolio">
+  <a href="https://github.com/seu-usuario/gerenciador-facas-industriais">
+    <img src="https://img.shields.io/badge/🔪_Gerenciador_de_Facas_Industriais-Veja_o_Projeto-007ACC?style=for-the-badge&logo=knife&logoColor=white" alt="Gerenciador de Facas">
   </a>
 </p>
 
