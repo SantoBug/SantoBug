@@ -56,9 +56,7 @@ Alguns jogos desenvolvido em **C** para.
 
 ---
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+<div 
   
   <p>💙 <i>Obrigado pela visita!</i> 💙</p>
   
