@@ -15,7 +15,7 @@ JavaScript
 
 
 const eu = {
-  nome: "Seu Nome",
+  nome: "Douglas Tavares",
   profissao: "Estudante de Engenharia de Software",
   interesses: [
     "Desenvolvimento Web",
@@ -71,25 +71,10 @@ Tenho experiência no desenvolvimento de aplicações mobile, focando em criar i
   </a>
 </p>
 
-Substitua SEU_USERNAME pelo seu nome de usuário do GitHub para exibir suas estatísticas e streak de contribuições.
 
 
 
 
-🤝 Conecte-se Comigo
-
-Estou sempre aberto a novas conexões e colaborações. Sinta-se à vontade para entrar em contato!
-
-<p align="left">
-<a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-Substitua SEU_LINKEDIN pelo seu perfil do LinkedIn e SEU_EMAIL pelo seu endereço de e-mail.
 
 
 
