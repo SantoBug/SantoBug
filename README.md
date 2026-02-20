@@ -1,80 +1,56 @@
-Olá, eu sou um estudante de Engenharia de Software! 👋
+# 👨‍💻 Douglas Tavares dos Santos
 
-<p align="center">
-<a href="https://github.com/SEU_USERNAME">
-   
-  </a>
-</p>
+🎓 Estudante de Engenharia de Software  
+💡 Apaixonado por tecnologia e desenvolvimento de sistemas  
+🚀 Em constante evolução como desenvolvedor
 
+---
 
+## 🚀 Sobre mim
 
+Sou estudante de Engenharia de Software e estou focado em me tornar um desenvolvedor completo, com conhecimentos tanto em desenvolvimento web quanto mobile.
 
-🚀 Sobre Mim
+Tenho experiência prática com criação de sistemas, interfaces e lógica de programação, sempre buscando evoluir minhas habilidades e construir projetos cada vez mais profissionais.
 
-JavaScript
+---
 
+## 🛠️ Tecnologias e Skills
 
-const eu = {
-  nome: "Douglas Tavares",
-  profissao: "Estudante de Engenharia de Software",
-  interesses: [
-    "Desenvolvimento Web",
-    "Desenvolvimento Mobile",
-    "Inteligência Artificial",
-    "Automação"
-  ],
-  buscando: "Oportunidades para aprender e crescer"
-};
+### 💻 Linguagens de Programação
+- Java
+- Python
+- JavaScript
 
+### 🌐 Desenvolvimento Web
+- HTML5
+- CSS3
+- JavaScript
 
+### 📱 Desenvolvimento Mobile
+- React Native
 
-Sou um estudante dedicado de Engenharia de Software, apaixonado por transformar ideias em soluções tecnológicas. Minha jornada no mundo da programação é impulsionada pela curiosidade e pelo desejo de construir sistemas eficientes e inovadores. Estou sempre em busca de novos conhecimentos e desafios para expandir minhas habilidades e contribuir para projetos impactantes.
+### 🗄️ Banco de Dados
+- MySQL
+- PostgreSQL
 
+---
 
+## 🎯 Objetivos
 
+- 📌 Me tornar um desenvolvedor full stack
+- 📌 Trabalhar com desenvolvimento de sistemas e aplicações reais
+- 📌 Criar projetos profissionais e escaláveis
+- 📌 Conseguir minha primeira oportunidade na área de tecnologia
 
-🛠️ Minhas Habilidades Técnicas
+---
 
-Minha caixa de ferramentas inclui uma variedade de linguagens e tecnologias, com foco em desenvolvimento robusto e escalável.
+## 📫 Contato
 
-Linguagens de Programação
+- 📧 Email: douglastavares_99@outlook.com
+- 📱 Telefone: 51 99769-6121
 
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+---
 
-Desenvolvimento Mobile
+## ⚡ Curiosidade
 
-Tenho experiência no desenvolvimento de aplicações mobile, focando em criar interfaces intuitivas e experiências de usuário fluidas. Estou familiarizado com as melhores práticas para construir aplicativos performáticos e responsivos.
-
-<p align="left">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-</p>
-
-
-
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-<a href="https://github.com/SEU_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/SEU_USERNAME">
-    
-  </a>
-</p>
-
-
-
-
-<p align="center">
-Feito com ❤️ por um futuro Engenheiro de Software
-</p>
-
+Sempre buscando aprender algo novo e transformar ideias em soluções reais através da programação 🚀
