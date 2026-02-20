@@ -42,9 +42,9 @@ Tenho experiência prática com desenvolvimento web, mobile e sistemas, sempre b
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SantoBug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoBug&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -54,7 +54,7 @@ Tenho experiência prática com desenvolvimento web, mobile e sistemas, sempre b
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SantoBug&theme=tokyonight&hide_border=true"/>
 
 </div>
 
