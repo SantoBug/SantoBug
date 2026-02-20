@@ -1,20 +1,24 @@
 # 👨‍💻 Douglas Tavares dos Santos
 
-🎓 Estudante de Engenharia de Software  
-💡 Desenvolvedor em evolução constante  
-🚀 Focado em criar soluções reais através da tecnologia  
+<div align="center">
+
+🚀 Estudante de Engenharia de Software  
+💡 Desenvolvedor Full Stack em evolução  
+🔥 Construindo soluções reais com tecnologia  
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento **Full Stack**, buscando evoluir constantemente minhas habilidades e construir projetos profissionais.
+Sou estudante de Engenharia de Software com foco em desenvolvimento de aplicações completas (Full Stack), envolvendo desde a criação de interfaces até a lógica de backend e banco de dados.
 
-Tenho experiência prática com desenvolvimento web, mobile e banco de dados, sempre aplicando boas práticas e buscando melhorar performance e organização de código.
+Tenho experiência prática com desenvolvimento web, mobile e sistemas, sempre buscando escrever código limpo, eficiente e escalável.
 
 ---
 
-## 🛠️ Tecnologias & Skills
+## 🚀 Stack Tecnológica
 
 ### 💻 Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,33 +38,43 @@ Tenho experiência prática com desenvolvimento web, mobile e banco de dados, se
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 Objetivos
+## 🔥 Atividade
 
-- 📌 Me tornar um desenvolvedor Full Stack profissional  
-- 📌 Trabalhar com projetos reais e escaláveis  
-- 📌 Evoluir constantemente minhas habilidades técnicas  
-- 📌 Conquistar minha primeira oportunidade na área de tecnologia  
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Foco Atual
+
+- 📌 Desenvolvimento Full Stack  
+- 📌 Criação de sistemas web e mobile  
+- 📌 Projetos reais e escaláveis  
+- 📌 Evolução contínua em tecnologia  
 
 ---
 
 ## 📫 Contato
 
-- 📧 douglastavares_99@outlook.com  
+📧 douglastavares_99@outlook.com  
 
 ---
 
-## ⚡ Mentalidade
+## ⚡ Filosofia
 
-> "Transformando ideias em código e código em soluções." 🚀
+> "Código limpo resolve problemas. Código inteligente cria oportunidades." 🚀
