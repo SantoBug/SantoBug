@@ -1,56 +1,66 @@
 # 👨‍💻 Douglas Tavares dos Santos
 
 🎓 Estudante de Engenharia de Software  
-💡 Apaixonado por tecnologia e desenvolvimento de sistemas  
-🚀 Em constante evolução como desenvolvedor
+💡 Desenvolvedor em evolução constante  
+🚀 Focado em criar soluções reais através da tecnologia  
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software e estou focado em me tornar um desenvolvedor completo, com conhecimentos tanto em desenvolvimento web quanto mobile.
+Sou estudante de Engenharia de Software com foco em desenvolvimento **Full Stack**, buscando evoluir constantemente minhas habilidades e construir projetos profissionais.
 
-Tenho experiência prática com criação de sistemas, interfaces e lógica de programação, sempre buscando evoluir minhas habilidades e construir projetos cada vez mais profissionais.
+Tenho experiência prática com desenvolvimento web, mobile e banco de dados, sempre aplicando boas práticas e buscando melhorar performance e organização de código.
 
 ---
 
-## 🛠️ Tecnologias e Skills
+## 🛠️ Tecnologias & Skills
 
-### 💻 Linguagens de Programação
-- Java
-- Python
-- JavaScript
+### 💻 Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Desenvolvimento Web
-- HTML5
-- CSS3
-- JavaScript
+### 🌐 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📱 Desenvolvimento Mobile
-- React Native
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Banco de Dados
-- MySQL
-- PostgreSQL
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 ## 🎯 Objetivos
 
-- 📌 Me tornar um desenvolvedor full stack
-- 📌 Trabalhar com desenvolvimento de sistemas e aplicações reais
-- 📌 Criar projetos profissionais e escaláveis
-- 📌 Conseguir minha primeira oportunidade na área de tecnologia
+- 📌 Me tornar um desenvolvedor Full Stack profissional  
+- 📌 Trabalhar com projetos reais e escaláveis  
+- 📌 Evoluir constantemente minhas habilidades técnicas  
+- 📌 Conquistar minha primeira oportunidade na área de tecnologia  
 
 ---
 
 ## 📫 Contato
 
-- 📧 Email: douglastavares_99@outlook.com
-- 📱 Telefone: 51 99769-6121
+- 📧 douglastavares_99@outlook.com  
 
 ---
 
-## ⚡ Curiosidade
+## ⚡ Mentalidade
 
-Sempre buscando aprender algo novo e transformar ideias em soluções reais através da programação 🚀
+> "Transformando ideias em código e código em soluções." 🚀
