@@ -2,7 +2,7 @@ Olá, eu sou um estudante de Engenharia de Software! 👋
 
 <p align="center">
 <a href="https://github.com/SEU_USERNAME">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+   
   </a>
 </p>
 
@@ -67,7 +67,7 @@ Tenho experiência no desenvolvimento de aplicações mobile, focando em criar i
     <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/SEU_USERNAME">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical" alt="GitHub Streak" />
+    
   </a>
 </p>
 
