@@ -38,16 +38,6 @@ Tenho experiência prática com desenvolvimento web, mobile e sistemas, sempre b
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/SantoBug">
-    <img src="https://github-readme-stats.vercel.app/api?username=SantoBug&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/SantoBug">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantoBug&theme=radical" alt="GitHub Streak" />
-  </a>
-</p>
 
 ---
 
