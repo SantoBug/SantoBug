@@ -61,41 +61,7 @@ Acredito que a melhor forma de evoluir é colocando a mão na massa. Cada projet
 
 ---
 
-## 🐍 Contribuições
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SantoBug/SantoBug/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚙️ Para a cobrinha aparecer, crie um arquivo em `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo abaixo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 ## 🚧 O que estou construindo
 
