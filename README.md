@@ -1,52 +1,87 @@
-# Olá, eu sou o Douglas Tavares 👋
+<div align="center">
 
-Estudante de **Engenharia de Software** apaixonado por desenvolvimento e tecnologia.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Douglas%20Tavares&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20in%20progress%20🚀&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-Comecei minha jornada explorando várias linguagens, mas foi com **Java** que encontrei meu caminho — focado em **Backend**, construindo sistemas reais, robustos e bem estruturados.
-
-Acredito que a melhor forma de evoluir é colocando a mão na massa. Cada projeto aqui no meu perfil representa um passo nessa jornada. 🚀
+</div>
 
 ---
 
-## 🎯 Foco atual
+<div align="center">
 
-- 🔥 **Java Backend** — meu principal foco agora
-- 🌐 **Spring Boot** — construindo APIs REST profissionais
-- 🗄️ **Banco de dados** — MySQL, JDBC e Spring Data JPA
-- 🧩 **Boas práticas** — código limpo, padrões de projeto (DAO, MVC, REST)
-- 🤖 **Próximo objetivo** — Inteligência Artificial e Machine Learning com Java
+### 🇧🇷 Sobre mim &nbsp;|&nbsp; 🇺🇸 About me
+
+</div>
+
+**PT 🇧🇷** — Estudante de **Engenharia de Software** apaixonado por backend. Comecei explorando várias linguagens, mas foi com **Java** que encontrei meu caminho — construindo sistemas reais, robustos e bem estruturados. Acredito que a melhor forma de evoluir é colocando a mão na massa. Cada projeto aqui é um passo nessa jornada.
+
+**EN 🇺🇸** — **Software Engineering** student passionate about backend development. I explored many languages, but found my path in **Java** — building real, robust, well-structured systems. I believe the best way to grow is by getting your hands dirty. Every project here is a step in that journey.
 
 ---
 
-## 💻 Tecnologias que já trabalhei
+## 🎯 Foco atual · Current Focus
 
-### Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+| Area | Stack |
+|------|-------|
+| 🔥 Backend Core | Java · Spring Boot · REST APIs |
+| 🗄️ Persistence | MySQL · Spring Data JPA · JDBC |
+| 🔐 Security | JWT · Token-based Auth |
+| ⚡ Performance | Redis Cache · Layered Architecture |
+| 🧩 Best Practices | Clean Code · DAO · MVC · REST |
+| 🤖 Next Goal | AI & Machine Learning with Java |
+
+---
+
+## 🚧 Projetos · Projects
+
+> *Cada projeto aqui foi construído para solidificar um conceito real · Each project was built to solidify a real concept*
+
+| Projeto · Project | Stack | Descrição · Description |
+|---|---|---|
+| 🔑 [auth-api](https://github.com/SantoBug/auth-api) | Spring Boot · JWT · Spring Security | API de autenticação com JWT e controle de tokens · Auth API with JWT and token management |
+| ⚡ [task-api](https://github.com/SantoBug/task-api) | Spring Boot · Redis · MySQL | API de tarefas com cache Redis para alta performance · Task API with Redis cache for high performance |
+| 🏥 [clinica-api](https://github.com/SantoBug/clinica-api) | Spring Boot · JPA · MySQL | API REST com arquitetura em camadas · REST API with layered architecture |
+| 🖥️ [clinica-sistema](https://github.com/SantoBug/clinica-sistema) | Java · Swing · MySQL · JDBC | Sistema desktop com interface gráfica e CRUD completo · Desktop system with GUI and full CRUD |
+
+> 📚 Mais projetos chegando em breve · More projects coming soon...
+
+---
+
+## 💻 Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Backend
+**Backend**
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Database & Cache**
 
-### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Ferramentas
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 Minha jornada em números
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -64,33 +99,34 @@ Acredito que a melhor forma de evoluir é colocando a mão na massa. Cada projet
 
 ---
 
-## 🚧 O que estou construindo
+## 🗺️ Onde quero chegar · Where I'm heading
 
-Aqui no meu GitHub você vai encontrar projetos práticos que desenvolvi para solidificar meu aprendizado:
+```
+[✅] Java fundamentos         →  [✅] Spring Boot + REST
+[✅] MySQL + JPA              →  [✅] Redis Cache
+[✅] JWT + Spring Security    →  [ ] Spring Cloud / Microservices
+[ ] Docker + CI/CD            →  [ ] AI & ML com Java
+```
 
-| Projeto | Tecnologias | Descrição |
-|---------|-------------|-----------|
-| 🏥 [Sistema de Clínica](https://github.com/SantoBug/clinica-sistema) | Java + Swing + MySQL + JDBC | Sistema desktop com interface gráfica e CRUD completo |
-| 🌐 [Clínica API](https://github.com/SantoBug/clinica-api) | Spring Boot + JPA + MySQL | API REST com arquitetura em camadas |
-
-> 📚 Mais projetos chegando em breve...
-
----
-
-## 🤖 Onde quero chegar
-
-Meu objetivo é me tornar um desenvolvedor **Java Backend** sólido — dominando Spring Boot, APIs REST e boas práticas de desenvolvimento.
-
-No futuro, pretendo mergulhar no mundo de **Inteligência Artificial e Machine Learning** — áreas que me fascinam e que quero explorar com Java.
-
-Estou no começo dessa jornada, mas cada dia é um passo a mais. 💡
+*Estou no começo dessa jornada, mas cada dia é um passo a mais · I'm at the beginning of this journey, but every day is one step further.* 💡
 
 ---
 
-## 📫 Contato
+## 📫 Contato · Contact
 
-📧 douglastavares_99@outlook.com
+<div align="center">
+
+[![Email](https://img.shields.io/badge/douglastavares__99@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:douglastavares_99@outlook.com)
+[![GitHub](https://img.shields.io/badge/SantoBug-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantoBug)
+
+</div>
 
 ---
 
-> *"Código limpo resolve problemas. Código inteligente cria oportunidades."* 🚀
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+*"Código limpo resolve problemas. Código inteligente cria oportunidades."* 🚀
+
+</div>
