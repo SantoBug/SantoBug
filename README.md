@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Douglas%20Tavares&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20in%20progress%20🚀&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Douglas%20Tavares&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20in%20progress%20%F0%9F%9A%80&descAlignY=58&descSize=18&descColor=c4b5fd" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Building+real+systems%2C+one+commit+at+a+time+%F0%9F%94%A5;Spring+Boot+%7C+Redis+%7C+JWT+%7C+MySQL;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -85,7 +89,53 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SantoBug&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantoBug&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoBug&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=SantoBug&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SantoBug&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trophies" />
+
+</div>
+
+---
+
+## 🗺️ Onde quero chegar · Where I'm heading
+
+```
+[✅] Java fundamentos         →  [✅] Spring Boot + REST
+[✅] MySQL + JPA              →  [✅] Redis Cache
+[✅] JWT + Spring Security    →  [ ] Spring Cloud / Microservices
+[ ] Docker + CI/CD            →  [ ] AI & ML com Java
+```
+
+*Estou no começo dessa jornada, mas cada dia é um passo a mais · I'm at the beginning of this journey, but every day is one step further.* 💡
+
+---
+
+## 📫 Contato · Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Douglas%20Tavares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglassant/)
+[![Email](https://img.shields.io/badge/douglastavares__99@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:douglastavares_99@outlook.com)
+[![GitHub](https://img.shields.io/badge/SantoBug-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantoBug)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+*"Código limpo resolve problemas. Código inteligente cria oportunidades."* 🚀
+
+</div>
 
 <br/><br/>
 
